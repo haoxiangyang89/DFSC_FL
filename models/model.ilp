@@ -1,0 +1,8 @@
+\ Model DFSC_otracle_0__copy
+\ LP format - for model browsing. Use MPS format to capture full model detail.
+Minimize
+  0 demand[0,Broward_County]
+Subject To
+Bounds
+ 1 <= demand[0,Broward_County] <= -1
+End

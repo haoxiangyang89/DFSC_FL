@@ -1,0 +1,2738 @@
+
+Gurobi 8.1.0 (mac64, Python) logging started Sat Nov 16 23:39:09 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Fri Nov 22 14:06:57 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Nov 26 23:52:03 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Fri Dec  6 00:45:01 2019
+
+
+--------------------------------------------
+Warning: your license will expire in 13 days
+--------------------------------------------
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Fri Dec  6 12:52:50 2019
+
+
+--------------------------------------------
+Warning: your license will expire in 13 days
+--------------------------------------------
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Fri Dec  6 14:48:08 2019
+
+
+--------------------------------------------
+Warning: your license will expire in 13 days
+--------------------------------------------
+
+Academic license - for non-commercial use only
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 1e+00]
+Presolve removed 2 rows and 2 columns
+Presolve time: 0.03s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.03 seconds
+Optimal objective  1.000000000e+00
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    2.0000000e+30   3.000000e+30   2.000000e+00      0s
+       2    6.6666667e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.06 seconds
+Optimal objective  6.666666667e-01
+
+Gurobi 8.1.1 (mac64, Python) logging started Fri Dec  6 16:04:16 2019
+
+
+--------------------------------------------
+Warning: your license will expire in 13 days
+--------------------------------------------
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (mac64, Python) logging started Fri Dec  6 16:12:52 2019
+
+
+--------------------------------------------
+Warning: your license will expire in 13 days
+--------------------------------------------
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec  8 10:21:28 2019
+
+
+--------------------------------------------
+Warning: your license will expire in 11 days
+--------------------------------------------
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec  8 10:29:51 2019
+
+
+--------------------------------------------
+Warning: your license will expire in 11 days
+--------------------------------------------
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [1e+00, 4e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 1e+00]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.3333333e+30   1.333333e+30   1.333333e+00      0s
+       1    2.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 1 iterations and 0.01 seconds
+Optimal objective  2.000000000e+00
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec  8 10:58:23 2019
+
+
+--------------------------------------------
+Warning: your license will expire in 11 days
+--------------------------------------------
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec  8 10:59:05 2019
+
+
+--------------------------------------------
+Warning: your license will expire in 11 days
+--------------------------------------------
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec  8 11:06:50 2019
+
+
+--------------------------------------------
+Warning: your license will expire in 11 days
+--------------------------------------------
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec  8 11:12:35 2019
+
+
+--------------------------------------------
+Warning: your license will expire in 11 days
+--------------------------------------------
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Model has 2 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [2e+00, 2e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 1e+00]
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Model has 2 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [2e+00, 2e+00]
+  QObjective range [2e+00, 2e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 1e+00]
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+Presolved model has 2 quadratic objective terms
+
+       0   -0.0000000e+00   0.000000e+00   0.000000e+00      0s
+       3   -8.8888889e-01   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.01 seconds
+Optimal objective -8.888888889e-01
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Threads to 1
+   Prev: 0  Min: 0  Max: 1024  Default: 0
+Optimize a model with 111540 rows, 191352 columns and 507840 nonzeros
+Model has 6432 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+02]
+  Objective range  [1e+00, 1e+00]
+  QObjective range [2e-09, 4e-09]
+  Bounds range     [3e+00, 1e+04]
+  RHS range        [1e-03, 5e+04]
+Presolve removed 97557 rows and 104264 columns
+Presolve time: 0.48s
+Presolved: 13983 rows, 87088 columns, 242308 nonzeros
+Presolved model has 6432 quadratic objective terms
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.0850187e-02   0.000000e+00   0.000000e+00      1s
+   14909    1.2661839e-02   1.582681e+01   0.000000e+00      5s
+   19411    2.9196486e-02   1.984951e+01   0.000000e+00     10s
+   23192    5.1331774e-02   9.445713e+00   0.000000e+00     15s
+   26771    7.0848870e-02   6.760748e+00   0.000000e+00     20s
+   28716    8.0198421e-02   6.445511e+00   0.000000e+00     25s
+   31045    8.7491942e-02   2.982310e+00   0.000000e+00     30s
+   34088    9.2998130e-02   1.693640e+00   0.000000e+00     35s
+   37315    9.6747953e-02   2.961345e+00   0.000000e+00     40s
+   40362    2.4697896e+01   2.458535e+00   0.000000e+00     45s
+   43406    2.4699615e+01   1.031333e-02   0.000000e+00     50s
+   47817    2.4597687e+01   0.000000e+00   4.151340e-01     55s
+   49477    2.4594404e+01   0.000000e+00   1.193776e-01     60s
+   51267    2.4592121e+01   0.000000e+00   5.966172e-02     65s
+   52937    2.4590145e+01   0.000000e+00   4.847208e-02     70s
+   54657    2.4588842e+01   0.000000e+00   4.039952e-02     75s
+   56177    2.4587690e+01   0.000000e+00   3.463548e-02     80s
+   57687    2.4587032e+01   0.000000e+00   3.007910e-02     85s
+   59457    2.4586438e+01   0.000000e+00   2.121520e-02     90s
+   61087    2.4585914e+01   0.000000e+00   2.391823e-02     95s
+   62667    2.4585397e+01   0.000000e+00   1.727057e-02    100s
+   64227    2.4584969e+01   0.000000e+00   1.816553e-02    105s
+   65717    2.4584611e+01   0.000000e+00   1.736596e-02    110s
+   67287    2.4584308e+01   0.000000e+00   1.736035e-02    115s
+   68807    2.4584113e+01   0.000000e+00   1.254411e-02    121s
+   70027    2.4583917e+01   0.000000e+00   1.016613e-02    125s
+   71537    2.4583815e+01   0.000000e+00   8.500120e-03    131s
+   72927    2.4583716e+01   0.000000e+00   7.850293e-03    135s
+   74446    2.4583606e+01   0.000000e+00   7.223618e-03    140s
+   76126    2.4583463e+01   0.000000e+00   3.683133e-04    145s
+   77895    2.4583372e+01   0.000000e+00   5.105836e-05    150s
+   80766    2.4583331e+01   1.166032e+01   0.000000e+00    155s
+   82738    2.4583508e+01   3.942147e-02   0.000000e+00    160s
+   83885    2.4583410e+01   0.000000e+00   1.356476e-02    166s
+   84975    2.4583385e+01   0.000000e+00   9.898130e-03    170s
+   86426    2.4583312e+01   0.000000e+00   0.000000e+00    175s
+   87512    2.4583291e+01   0.000000e+00   5.185283e-03    182s
+   87955    2.4583259e+01   0.000000e+00   4.965760e-03    186s
+   88541    2.4583228e+01   0.000000e+00   3.098168e-03    193s
+   88834    2.4583210e+01   0.000000e+00   2.423861e-03    196s
+   89420    2.4583188e+01   0.000000e+00   1.787445e-03    201s
+   90006    2.4583175e+01   0.000000e+00   9.195149e-04    208s
+   90299    2.4583167e+01   0.000000e+00   5.026878e-04    212s
+   90885    2.4583161e+01   0.000000e+00   1.001887e-04    218s
+   91174    2.4583153e+01   0.000000e+00   0.000000e+00    221s
+Extra 3826 simplex iterations after uncrush
+   91178    2.4583153e+01   0.000000e+00   0.000000e+00    221s
+
+Solved in 91178 iterations and 221.45 seconds
+Optimal objective  2.458315346e+01
+Warning: unscaled dual violation = 1.57999e-05 and residual = 2.31761e-15
+Optimize a model with 111540 rows, 191352 columns and 507840 nonzeros
+Model has 6432 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+02]
+  Objective range  [1e+00, 1e+00]
+  QObjective range [2e-09, 4e-09]
+  Bounds range     [2e-03, 2e+04]
+  RHS range        [1e-03, 5e+04]
+       0    2.4583153e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.05 seconds
+Optimal objective  2.458315346e+01
+Warning: unscaled dual violation = 1.56105e-05 and residual = 2.31761e-15
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Threads to 1
+   Prev: 0  Min: 0  Max: 1024  Default: 0
+Optimize a model with 111540 rows, 191352 columns and 507840 nonzeros
+Model has 6432 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+02]
+  Objective range  [1e+00, 1e+00]
+  QObjective range [2e-09, 4e-09]
+  Bounds range     [1e-03, 2e+04]
+  RHS range        [1e-03, 5e+04]
+Presolve removed 96948 rows and 103165 columns
+Presolve time: 0.48s
+Presolved: 14592 rows, 88187 columns, 244783 nonzeros
+Presolved model has 6432 quadratic objective terms
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.8289040e-06   0.000000e+00   0.000000e+00      1s
+   18122    6.6527257e-04   2.404916e+01   0.000000e+00      5s
+   22434    1.1162089e-02   1.719997e+01   0.000000e+00     10s
+   26128    2.3049126e-02   3.641524e+01   0.000000e+00     15s
+   29485    3.2892501e-02   1.136205e+01   0.000000e+00     20s
+   32740    4.2539442e-02   9.028374e+00   0.000000e+00     25s
+   35280    5.0395510e-02   6.496507e+00   0.000000e+00     30s
+   37624    6.1805079e-02   3.102281e+01   0.000000e+00     35s
+   39627    6.9985294e-02   5.406332e+00   0.000000e+00     40s
+   42142    4.8065167e+03   1.068144e+01   0.000000e+00     45s
+   45039    1.3897215e+04   3.815074e+00   0.000000e+00     50s
+   47469    1.7771293e+04   2.398022e+00   0.000000e+00     55s
+   50066    2.3198914e+04   1.568399e+00   0.000000e+00     60s
+   52129    2.5619637e+04   1.448001e+00   0.000000e+00     65s
+   54379    2.7951367e+04   8.466985e-01   0.000000e+00     70s
+   56077    2.9717895e+04   5.988158e-01   0.000000e+00     75s
+   58460    3.1595507e+04   1.395547e-01   0.000000e+00     80s
+   61383    3.1631871e+04   0.000000e+00   2.201875e+00     85s
+   65244    3.1631867e+04   0.000000e+00   2.343773e-01     90s
+   66814    3.1631865e+04   0.000000e+00   9.966475e-02     95s
+   68344    3.1631865e+04   0.000000e+00   6.672503e-02    100s
+   69954    3.1631864e+04   0.000000e+00   3.810622e-02    105s
+   71374    3.1631864e+04   0.000000e+00   2.673877e-02    110s
+   72604    3.1631863e+04   0.000000e+00   1.584806e-02    115s
+   73904    3.1631863e+04   0.000000e+00   1.156717e-02    120s
+   75224    3.1631862e+04   0.000000e+00   9.938957e-03    125s
+   76564    3.1631862e+04   0.000000e+00   8.885796e-03    130s
+   78084    3.1631862e+04   0.000000e+00   2.759141e-03    135s
+   79414    3.1631862e+04   0.000000e+00   2.171557e-03    140s
+   80924    3.1631862e+04   0.000000e+00   6.796161e-04    145s
+   82174    3.1631862e+04   0.000000e+00   3.407673e-03    150s
+   83274    3.1631862e+04   0.000000e+00   3.345758e-03    155s
+   84550    3.1631862e+04   2.825884e+01   0.000000e+00    160s
+   86417    3.1631862e+04   4.569890e-01   0.000000e+00    165s
+   87684    3.1631862e+04   3.990447e-04   0.000000e+00    170s
+   89159    3.1631862e+04   0.000000e+00   1.627725e-04    175s
+   89798    3.1631861e+04   0.000000e+00   3.420245e-03    181s
+   90341    3.1631861e+04   0.000000e+00   2.609503e-03    188s
+   90634    3.1631861e+04   0.000000e+00   3.100292e-03    191s
+   91217    3.1631861e+04   0.000000e+00   6.111619e-03    198s
+   91497    3.1631861e+04   0.000000e+00   4.428119e-03    201s
+   91790    3.1631861e+04   0.000000e+00   8.557503e-05    206s
+Extra 2440 simplex iterations after uncrush
+   91878    3.1631861e+04   0.000000e+00   0.000000e+00    208s
+
+Solved in 91878 iterations and 208.16 seconds
+Optimal objective  3.163186139e+04
+Warning: unscaled primal violation = 0.0157025 and residual = 4.06054e-06
+Warning: unscaled dual violation = 1.47142e-05 and residual = 1.16813e-11
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Threads to 1
+   Prev: 0  Min: 0  Max: 1024  Default: 0
+Optimize a model with 111540 rows, 191352 columns and 507840 nonzeros
+Model has 6432 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+02]
+  Objective range  [1e+00, 1e+00]
+  QObjective range [2e-09, 4e-09]
+  Bounds range     [3e+00, 1e+04]
+  RHS range        [1e-03, 5e+04]
+Presolve removed 97557 rows and 104264 columns
+Presolve time: 0.49s
+Presolved: 13983 rows, 87088 columns, 242308 nonzeros
+Presolved model has 6432 quadratic objective terms
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.0850187e-02   0.000000e+00   0.000000e+00      1s
+   14619    1.2520479e-02   1.600933e+01   0.000000e+00      5s
+   18732    2.7312229e-02   1.357566e+01   0.000000e+00     10s
+   22483    4.7918438e-02   9.652945e+00   0.000000e+00     15s
+   25513    6.4578154e-02   8.411732e+00   0.000000e+00     20s
+   28357    7.9015860e-02   4.905574e+00   0.000000e+00     25s
+   31045    8.7491942e-02   2.982310e+00   0.000000e+00     30s
+   33730    9.1905417e-02   1.853134e+00   0.000000e+00     35s
+   36778    9.6186229e-02   1.002643e+00   0.000000e+00     40s
+   39825    2.4697622e+01   4.837446e-01   0.000000e+00     45s
+   42511    2.4699167e+01   1.098282e-01   0.000000e+00     50s
+   45876    2.4600876e+01   0.000000e+00   3.572949e+00     55s
+   48887    2.4594872e+01   0.000000e+00   1.794268e-01     60s
+   50607    2.4592806e+01   0.000000e+00   6.729524e-02     65s
+   52357    2.4590702e+01   0.000000e+00   5.981436e-02     70s
+   54007    2.4589256e+01   0.000000e+00   4.488411e-02     75s
+   55737    2.4587950e+01   0.000000e+00   3.547911e-02     80s
+   57427    2.4587110e+01   0.000000e+00   3.068506e-02     85s
+   59197    2.4586468e+01   0.000000e+00   2.419712e-02     90s
+   60947    2.4585950e+01   0.000000e+00   2.189903e-02     95s
+   62667    2.4585397e+01   0.000000e+00   1.727057e-02    100s
+   64227    2.4584969e+01   0.000000e+00   1.816553e-02    105s
+   65717    2.4584611e+01   0.000000e+00   1.736596e-02    110s
+   67137    2.4584323e+01   0.000000e+00   1.441894e-02    115s
+   68577    2.4584131e+01   0.000000e+00   1.353983e-02    120s
+   69887    2.4583924e+01   0.000000e+00   9.322301e-03    125s
+   71257    2.4583821e+01   0.000000e+00   8.465394e-03    130s
+   72617    2.4583738e+01   0.000000e+00   8.040340e-03    135s
+   74126    2.4583614e+01   0.000000e+00   7.310218e-03    140s
+   75706    2.4583486e+01   0.000000e+00   5.663876e-03    145s
+   77226    2.4583393e+01   0.000000e+00   1.152520e-04    151s
+   78414    2.4583357e+01   0.000000e+00   3.094409e-04    155s
+   81126    2.4583338e+01   1.447302e+02   0.000000e+00    160s
+   82738    2.4583508e+01   3.942147e-02   0.000000e+00    165s
+   84355    2.4583396e+01   0.000000e+00   1.161560e-02    170s
+   85995    2.4583338e+01   0.000000e+00   8.448028e-04    175s
+   87352    2.4583294e+01   0.000000e+00   5.052961e-03    180s
+   87955    2.4583259e+01   0.000000e+00   4.965760e-03    187s
+   88541    2.4583228e+01   0.000000e+00   3.098168e-03    193s
+   88834    2.4583210e+01   0.000000e+00   2.423861e-03    196s
+   89420    2.4583188e+01   0.000000e+00   1.787445e-03    205s
+   89713    2.4583179e+01   0.000000e+00   1.126540e-03    211s
+   90006    2.4583175e+01   0.000000e+00   9.195149e-04    216s
+   90299    2.4583167e+01   0.000000e+00   5.026878e-04    221s
+   90885    2.4583161e+01   0.000000e+00   1.001887e-04    228s
+   91174    2.4583153e+01   0.000000e+00   0.000000e+00    232s
+Extra 3826 simplex iterations after uncrush
+   91178    2.4583153e+01   0.000000e+00   0.000000e+00    232s
+
+Solved in 91178 iterations and 232.32 seconds
+Optimal objective  2.458315346e+01
+Warning: unscaled dual violation = 1.57999e-05 and residual = 2.31761e-15
+Optimize a model with 111540 rows, 191352 columns and 507840 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+02]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [2e-03, 2e+04]
+  RHS range        [1e-03, 5e+04]
+Presolve removed 108061 rows and 167856 columns
+Presolve time: 0.25s
+Presolved: 3479 rows, 23496 columns, 66653 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   1.904580e+04   0.000000e+00      0s
+    5844    2.4572106e+01   0.000000e+00   0.000000e+00      1s
+
+Solved in 5844 iterations and 0.95 seconds
+Optimal objective  2.457210556e+01
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Threads to 1
+   Prev: 0  Min: 0  Max: 1024  Default: 0
+Optimize a model with 111540 rows, 191352 columns and 507840 nonzeros
+Model has 6432 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+02]
+  Objective range  [1e+00, 1e+00]
+  QObjective range [2e-09, 4e-09]
+  Bounds range     [1e-03, 2e+04]
+  RHS range        [1e-03, 5e+04]
+Presolve removed 96948 rows and 103165 columns
+Presolve time: 0.67s
+Presolved: 14592 rows, 88187 columns, 244783 nonzeros
+Presolved model has 6432 quadratic objective terms
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    7.8289040e-06   0.000000e+00   0.000000e+00      1s
+   17309    3.4957237e-04   2.760879e+01   0.000000e+00      5s
+   22283    1.0338194e-02   1.749830e+01   0.000000e+00     10s
+   25773    2.1636420e-02   1.603092e+01   0.000000e+00     15s
+   28572    3.0656918e-02   1.202525e+01   0.000000e+00     20s
+   29824    3.3616351e-02   1.146229e+01   0.000000e+00     25s
+   32018    4.0156988e-02   9.145431e+00   0.000000e+00     30s
+   33825    4.5027250e-02   7.497766e+00   0.000000e+00     35s
+   35643    5.1686800e-02   6.326104e+00   0.000000e+00     40s
+   37440    6.0494234e-02   5.704721e+00   0.000000e+00     45s
+   38898    6.6801956e-02   5.534081e+00   0.000000e+00     50s
+   40682    7.7632324e-02   3.202201e+01   0.000000e+00     55s
+   43123    9.1747389e+03   5.197752e+00   0.000000e+00     61s
+   45079    1.3872585e+04   3.741709e+00   0.000000e+00     65s
+   47664    1.8276928e+04   2.353154e+00   0.000000e+00     70s
+   50145    2.3495043e+04   1.784449e+00   0.000000e+00     75s
+   52108    2.5188591e+04   1.296546e+00   0.000000e+00     80s
+   54231    2.7506974e+04   9.312929e-01   0.000000e+00     85s
+   56947    3.0670420e+04   3.894221e-01   0.000000e+00     90s
+   59052    3.1631871e+04   0.000000e+00   2.537242e+00     95s
+   63972    3.1631870e+04   0.000000e+00   1.652784e+00    100s
+   65474    3.1631867e+04   0.000000e+00   2.573510e-01    105s
+   66904    3.1631866e+04   0.000000e+00   1.126323e-01    110s
+   68414    3.1631865e+04   0.000000e+00   6.440500e-02    115s
+   69824    3.1631865e+04   0.000000e+00   3.153566e-02    120s
+   71384    3.1631864e+04   0.000000e+00   1.637910e-02    125s
+   72814    3.1631863e+04   0.000000e+00   1.785383e-02    130s
+   74164    3.1631863e+04   0.000000e+00   1.647860e-02    135s
+   75634    3.1631863e+04   0.000000e+00   1.226583e-02    140s
+   77024    3.1631863e+04   0.000000e+00   1.386215e-02    145s
+   78394    3.1631863e+04   0.000000e+00   8.498832e-03    150s
+   79784    3.1631862e+04   0.000000e+00   2.769775e-03    155s
+   81104    3.1631862e+04   0.000000e+00   2.597991e-03    160s
+   82544    3.1631862e+04   0.000000e+00   1.608842e-03    165s
+   83994    3.1631862e+04   0.000000e+00   7.380187e-05    171s
+   85327    3.1631862e+04   3.063285e+02   0.000000e+00    175s
+   88178    3.1631861e+04   7.073511e+00   0.000000e+00    180s
+   89811    3.1631862e+04   7.909812e-02   0.000000e+00    185s
+   91275    3.1631862e+04   0.000000e+00   7.521182e-04    190s
+   91964    3.1631861e+04   0.000000e+00   3.453794e-03    196s
+   92517    3.1631861e+04   0.000000e+00   1.630263e-03    202s
+   92810    3.1631861e+04   0.000000e+00   9.654430e-04    205s
+   93383    3.1631861e+04   0.000000e+00   7.454439e-04    214s
+   93676    3.1631861e+04   0.000000e+00   2.011745e-04    217s
+   93935    3.1631861e+04   0.000000e+00   0.000000e+00    221s
+Extra 2348 simplex iterations after uncrush
+   93952    3.1631861e+04   0.000000e+00   0.000000e+00    221s
+
+Solved in 93952 iterations and 221.18 seconds
+Optimal objective  3.163186139e+04
+Warning: unscaled primal violation = 0.00492341 and residual = 1.16253e-06
+Warning: unscaled dual violation = 1.58563e-05 and residual = 8.8221e-11
+Optimize a model with 111540 rows, 191352 columns and 507840 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+02]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [5e-11, 4e+04]
+  RHS range        [1e-03, 5e+04]
+Presolve removed 107101 rows and 166861 columns
+Presolve time: 0.23s
+Presolved: 4439 rows, 24491 columns, 68713 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   2.695035e+04   0.000000e+00      0s
+    7443    3.1631861e+04   0.000000e+00   0.000000e+00      1s
+
+Solved in 7443 iterations and 0.87 seconds
+Optimal objective  3.163186087e+04
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Threads to 1
+   Prev: 0  Min: 0  Max: 1024  Default: 0
+Optimize a model with 111540 rows, 191352 columns and 507840 nonzeros
+Model has 6432 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+02]
+  Objective range  [1e+00, 1e+00]
+  QObjective range [2e-09, 4e-09]
+  Bounds range     [1e-03, 2e+04]
+  RHS range        [1e-02, 5e+04]
+Presolve removed 96479 rows and 102866 columns
+Presolve time: 0.44s
+Presolved: 15061 rows, 88486 columns, 246195 nonzeros
+Presolved model has 6432 quadratic objective terms
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.5537984e-02   0.000000e+00   0.000000e+00      1s
+   17014    1.6481595e-02   3.612939e+01   0.000000e+00      5s
+   23262    6.4074018e-02   2.619298e+01   0.000000e+00     10s
+   26358    3.8940373e-01   2.854659e+01   0.000000e+00     15s
+   29558    1.1572229e+01   7.177573e+01   0.000000e+00     20s
+   33927    2.7790734e+04   5.505738e+01   0.000000e+00     25s
+   38314    8.5517972e+04   1.292891e+02   0.000000e+00     30s
+   42749    1.6166278e+05   5.633818e+01   0.000000e+00     35s
+   46050    1.7466864e+05   8.228825e+01   0.000000e+00     40s
+   49805    1.9881259e+05   3.980961e+01   0.000000e+00     45s
+   53508    2.0668088e+05   5.603085e+01   0.000000e+00     50s
+   56851    2.1880430e+05   9.217602e+02   0.000000e+00     55s
+   60564    2.2760720e+05   7.885596e+01   0.000000e+00     60s
+   63986    2.4023193e+05   1.917648e+01   0.000000e+00     65s
+   67433    2.4023305e+05   2.771434e+01   0.000000e+00     70s
+   70414    2.4867514e+05   2.623839e+01   0.000000e+00     75s
+   73069    2.5757226e+05   3.617810e+01   0.000000e+00     80s
+   76010    2.6103890e+05   2.061202e+01   0.000000e+00     85s
+   79365    2.6968880e+05   7.399559e+02   0.000000e+00     90s
+   82935    2.7334382e+05   1.705125e+01   0.000000e+00     95s
+   86082    2.7712377e+05   1.507897e+01   0.000000e+00    100s
+   89572    2.7940401e+05   1.602480e+01   0.000000e+00    105s
+   93408    2.8153184e+05   1.926520e+01   0.000000e+00    110s
+   96561    2.8349464e+05   1.294775e+01   0.000000e+00    115s
+  100104    2.8560658e+05   9.198799e+00   0.000000e+00    120s
+  103822    2.8824799e+05   7.660455e+00   0.000000e+00    125s
+  107103    2.8972921e+05   1.575999e+01   0.000000e+00    130s
+  110665    3.0353888e+05   5.298474e+00   0.000000e+00    135s
+  114290    3.1148812e+05   3.892071e+00   0.000000e+00    140s
+  117686    3.1977593e+05   2.328458e+00   0.000000e+00    145s
+  121191    3.2196224e+05   2.655099e+00   0.000000e+00    150s
+  124640    3.2500122e+05   2.040638e+00   0.000000e+00    155s
+  132973    3.2795071e+05   0.000000e+00   1.124668e+00    160s
+  135258    3.2795064e+05   0.000000e+00   3.876851e-01    165s
+  137160    3.2795058e+05   0.000000e+00   4.813075e-02    170s
+  138433    3.2795056e+05   0.000000e+00   4.405731e-02    175s
+  139781    3.2795055e+05   0.000000e+00   1.874325e-02    180s
+  141403    3.2795055e+05   0.000000e+00   1.634283e-02    185s
+  142965    3.2795054e+05   0.000000e+00   6.005998e-02    190s
+  144669    3.2795054e+05   0.000000e+00   1.245384e-02    195s
+  146573    3.2795053e+05   0.000000e+00   1.247378e-02    200s
+  148486    3.2795053e+05   0.000000e+00   8.472730e-03    205s
+  150219    3.2795053e+05   0.000000e+00   9.677147e-03    210s
+  151839    3.2795053e+05   0.000000e+00   6.735285e-03    215s
+  153643    3.2795053e+05   0.000000e+00   5.656177e-03    220s
+  155463    3.2795052e+05   0.000000e+00   6.172212e-03    225s
+  157214    3.2795052e+05   0.000000e+00   4.212683e-03    230s
+  158865    3.2795052e+05   0.000000e+00   6.765954e-03    235s
+  160639    3.2795052e+05   0.000000e+00   7.370187e-04    240s
+  162281    3.2795052e+05   0.000000e+00   4.205574e-04    245s
+  163793    3.2795052e+05   1.763408e+03   0.000000e+00    251s
+  166136    3.2795052e+05   3.046521e+00   0.000000e+00    255s
+  168021    3.2795052e+05   0.000000e+00   6.562078e-03    260s
+  169891    3.2795052e+05   0.000000e+00   4.388349e-03    265s
+  171822    3.2795052e+05   0.000000e+00   5.695356e-04    270s
+  173522    3.2795052e+05   0.000000e+00   9.881830e-02    275s
+  174142    3.2795052e+05   0.000000e+00   1.849685e-03    281s
+Extra 1110 simplex iterations after uncrush
+  174632    3.2795052e+05   0.000000e+00   0.000000e+00    285s
+
+Solved in 174632 iterations and 284.82 seconds
+Optimal objective  3.279505187e+05
+Warning: unscaled primal violation = 0.0153845 and residual = 3.3082e-07
+Warning: unscaled dual violation = 1.54754e-05 and residual = 2.50111e-12
+Optimize a model with 111540 rows, 191352 columns and 507840 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+02]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [9e-11, 1e+05]
+  RHS range        [1e-02, 5e+04]
+Presolve removed 106635 rows and 166555 columns
+Presolve time: 0.21s
+Presolved: 4905 rows, 24797 columns, 69749 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   9.672789e+04   0.000000e+00      0s
+    8977    3.2795050e+05   0.000000e+00   0.000000e+00      1s
+
+Solved in 8977 iterations and 0.89 seconds
+Optimal objective  3.279505013e+05
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Threads to 1
+   Prev: 0  Min: 0  Max: 1024  Default: 0
+Optimize a model with 111540 rows, 191352 columns and 507840 nonzeros
+Model has 6432 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+02]
+  Objective range  [1e+00, 1e+00]
+  QObjective range [2e-09, 4e-09]
+  Bounds range     [1e-03, 8e+04]
+  RHS range        [2e-03, 5e+04]
+Presolve removed 96071 rows and 102754 columns
+Presolve time: 0.46s
+Presolved: 15469 rows, 88598 columns, 247176 nonzeros
+Presolved model has 6431 quadratic objective terms
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.9892569e+02   0.000000e+00   0.000000e+00      1s
+   17572    1.9892608e+02   6.597175e+01   0.000000e+00      5s
+   27899    1.9893207e+02   1.224689e+02   0.000000e+00     10s
+   34596    1.9902471e+02   4.028908e+01   0.000000e+00     15s
+   38450    1.9926632e+02   6.556563e+02   0.000000e+00     20s
+   41905    2.0069129e+02   6.889708e+01   0.000000e+00     25s
+   45590    2.3264426e+02   1.435756e+02   0.000000e+00     30s
+   51393    2.6552328e+02   1.433681e+02   0.000000e+00     35s
+   57415    2.7902712e+02   2.003826e+02   0.000000e+00     40s
+   63067    2.6820290e+04   3.396595e+03   0.000000e+00     45s
+   68622    7.2164108e+04   4.134930e+02   0.000000e+00     50s
+   72826    7.2199942e+04   1.135586e+02   0.000000e+00     55s
+   77646    1.0904482e+05   1.099903e+02   0.000000e+00     60s
+   82383    1.0906198e+05   2.039527e+02   0.000000e+00     65s
+   85936    1.4176770e+05   7.690291e+01   0.000000e+00     70s
+   90499    1.4177656e+05   1.566677e+02   0.000000e+00     75s
+   96264    1.6908823e+05   1.296614e+02   0.000000e+00     80s
+  100606    2.0901380e+05   4.627342e+01   0.000000e+00     85s
+  104434    2.2641512e+05   7.194013e+01   0.000000e+00     90s
+  108030    2.4778169e+05   1.959475e+02   0.000000e+00     95s
+  111405    2.8916885e+05   1.133877e+02   0.000000e+00    100s
+  115091    3.2587213e+05   1.127577e+02   0.000000e+00    105s
+  119226    3.5532961e+05   2.637995e+01   0.000000e+00    110s
+  123314    3.6829968e+05   2.934848e+01   0.000000e+00    115s
+  127664    3.8469320e+05   2.156335e+01   0.000000e+00    120s
+  131916    3.9222625e+05   2.520195e+01   0.000000e+00    125s
+  136644    4.0840566e+05   1.896545e+01   0.000000e+00    130s
+  140597    4.2935284e+05   1.648450e+01   0.000000e+00    135s
+  144476    4.3768195e+05   8.702821e+00   0.000000e+00    140s
+  148508    4.4730315e+05   8.760523e+00   0.000000e+00    145s
+  152106    4.5452822e+05   7.202497e+00   0.000000e+00    150s
+  156180    4.6818890e+05   8.051947e+00   0.000000e+00    155s
+  159025    4.7706656e+05   2.682913e+00   0.000000e+00    160s
+  162029    4.8344525e+05   1.718247e+02   0.000000e+00    165s
+  169165    4.8543964e+05   0.000000e+00   1.458621e+00    170s
+  171281    4.8543955e+05   0.000000e+00   3.009879e-01    175s
+  173792    4.8543950e+05   0.000000e+00   1.743981e-01    180s
+  176300    4.8543947e+05   0.000000e+00   5.953715e-02    185s
+  178567    4.8543945e+05   0.000000e+00   6.291997e-02    190s
+  180723    4.8543943e+05   0.000000e+00   3.679159e-02    195s
+  183247    4.8543941e+05   0.000000e+00   4.450648e-02    200s
+  185444    4.8543940e+05   0.000000e+00   7.133451e-02    205s
+  187611    4.8543938e+05   0.000000e+00   3.128830e-02    210s
+  189957    4.8543937e+05   0.000000e+00   2.516815e-02    215s
+  192058    4.8543936e+05   0.000000e+00   1.733909e-02    220s
+  194389    4.8543935e+05   0.000000e+00   7.664518e-03    225s
+  196320    4.8543935e+05   0.000000e+00   5.737590e-03    230s
+  198201    4.8543934e+05   0.000000e+00   1.339164e-02    235s
+  199921    4.8543933e+05   0.000000e+00   7.818394e-03    240s
+  201831    4.8543933e+05   0.000000e+00   3.230072e-03    245s
+  203633    4.8543933e+05   0.000000e+00   6.596170e-03    250s
+  205813    4.8543933e+05   0.000000e+00   6.635584e-03    255s
+  208074    4.8543932e+05   0.000000e+00   7.791944e-03    260s
+  210224    4.8543932e+05   0.000000e+00   1.315782e-02    265s
+  212267    4.8543932e+05   0.000000e+00   1.492712e-02    270s
+  214442    4.8543931e+05   0.000000e+00   1.145862e-02    275s
+  216898    4.8543928e+05   1.069419e+04   0.000000e+00    280s
+  220256    4.8543929e+05   8.340042e+01   0.000000e+00    285s
+  222864    4.8543929e+05   3.320463e-01   0.000000e+00    290s
+  225281    4.8543933e+05   0.000000e+00   4.763859e-02    295s
+  227481    4.8543933e+05   0.000000e+00   3.876026e-03    300s
+  229723    4.8543932e+05   0.000000e+00   1.513584e-02    305s
+  231866    4.8543932e+05   0.000000e+00   1.374829e-03    310s
+  234411    4.8543932e+05   7.144598e+01   0.000000e+00    315s
+  236758    4.8543932e+05   0.000000e+00   2.232006e-03    321s
+Extra 981 simplex iterations after uncrush
+  237409    4.8543932e+05   0.000000e+00   0.000000e+00    325s
+
+Solved in 237409 iterations and 325.24 seconds
+Optimal objective  4.854393194e+05
+Warning: unscaled primal violation = 0.0114849 and residual = 1.20471e-07
+Warning: unscaled dual violation = 1.43843e-05 and residual = 4.91696e-12
+Optimize a model with 111540 rows, 191352 columns and 507840 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+02]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e-14, 2e+05]
+  RHS range        [2e-03, 5e+04]
+Presolve removed 105849 rows and 165780 columns
+Presolve time: 0.24s
+Presolved: 5691 rows, 25572 columns, 71664 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    6.7711843e+02   9.677673e+04   0.000000e+00      0s
+   11203    4.8543911e+05   0.000000e+00   0.000000e+00      1s
+
+Solved in 11203 iterations and 1.46 seconds
+Optimal objective  4.854391134e+05
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Threads to 1
+   Prev: 0  Min: 0  Max: 1024  Default: 0
+Optimize a model with 111540 rows, 191352 columns and 507840 nonzeros
+Model has 6432 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+02]
+  Objective range  [1e+00, 1e+00]
+  QObjective range [2e-09, 4e-09]
+  Bounds range     [3e-12, 1e+05]
+  RHS range        [1e-02, 5e+04]
+Presolve removed 95724 rows and 102261 columns
+Presolve time: 0.48s
+Presolved: 15816 rows, 89091 columns, 248415 nonzeros
+Presolved model has 6432 quadratic objective terms
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    2.1265938e+02   0.000000e+00   0.000000e+00      1s
+   17830    2.1266331e+02   8.200217e+01   0.000000e+00      5s
+   25900    2.1273041e+02   4.316248e+01   0.000000e+00     10s
+   29749    2.1310743e+02   4.476957e+02   0.000000e+00     15s
+   33035    2.1397049e+02   5.504880e+01   0.000000e+00     20s
+   37188    2.4968357e+02   1.152842e+03   0.000000e+00     25s
+   41963    6.2402142e+04   7.554491e+01   0.000000e+00     30s
+   45871    1.6170819e+05   3.275770e+02   0.000000e+00     35s
+   49844    2.3685649e+05   6.110338e+01   0.000000e+00     40s
+   53533    3.0722912e+05   5.382499e+02   0.000000e+00     45s
+   57568    3.4999999e+05   1.761591e+02   0.000000e+00     50s
+   61853    3.7398131e+05   2.964469e+01   0.000000e+00     55s
+   66776    3.9773984e+05   3.397316e+01   0.000000e+00     60s
+   71259    4.0986459e+05   2.173658e+01   0.000000e+00     65s
+   75085    4.3136378e+05   1.855568e+01   0.000000e+00     70s
+   78500    4.3952148e+05   2.781324e+01   0.000000e+00     75s
+   81995    4.5019804e+05   1.714158e+01   0.000000e+00     80s
+   86011    4.6261402e+05   2.135871e+01   0.000000e+00     85s
+   90664    4.7593170e+05   1.645074e+01   0.000000e+00     90s
+   94331    4.9228285e+05   9.118784e+00   0.000000e+00     95s
+   98595    5.0804016e+05   6.578722e+00   0.000000e+00    100s
+  103117    5.2336618e+05   4.808687e+00   0.000000e+00    105s
+  107967    5.4048061e+05   8.438098e+00   0.000000e+00    110s
+  112220    5.5785451e+05   7.064614e-01   0.000000e+00    115s
+  119887    5.6156420e+05   0.000000e+00   1.518666e+00    120s
+  122048    5.6156417e+05   0.000000e+00   1.359851e-01    125s
+  124221    5.6156415e+05   0.000000e+00   9.054821e-02    130s
+  126274    5.6156413e+05   0.000000e+00   3.805431e-02    135s
+  128214    5.6156413e+05   0.000000e+00   1.334041e-02    140s
+  130179    5.6156413e+05   0.000000e+00   1.536131e-02    145s
+  132022    5.6156412e+05   0.000000e+00   4.197733e-03    150s
+  133934    5.6156412e+05   0.000000e+00   5.236871e-03    155s
+  135689    5.6156411e+05   0.000000e+00   4.539695e-03    160s
+  137629    5.6156411e+05   0.000000e+00   6.874488e-03    165s
+  139330    5.6156410e+05   0.000000e+00   2.491531e-03    170s
+  141202    5.6156410e+05   0.000000e+00   8.808402e-04    175s
+  143084    5.6156409e+05   0.000000e+00   8.171210e-03    180s
+  144895    5.6156409e+05   0.000000e+00   3.211282e-04    185s
+  146656    5.6156409e+05   0.000000e+00   5.694200e-04    190s
+  150495    5.6156409e+05   2.094683e+00   0.000000e+00    195s
+  153017    5.6156409e+05   0.000000e+00   5.884004e-02    200s
+  155501    5.6156409e+05   0.000000e+00   5.579657e-04    205s
+  158519    5.6156409e+05   2.722603e-03   0.000000e+00    210s
+  160831    5.6156409e+05   0.000000e+00   1.072551e-03    216s
+Extra 615 simplex iterations after uncrush
+  161056    5.6156409e+05   0.000000e+00   0.000000e+00    217s
+
+Solved in 161056 iterations and 217.15 seconds
+Optimal objective  5.615640909e+05
+Warning: unscaled primal violation = 0.00245276 and residual = 3.63973e-07
+Warning: unscaled dual violation = 1.5484e-05 and residual = 5.91172e-12
+Optimize a model with 111540 rows, 191352 columns and 507840 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+02]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [3e-12, 2e+05]
+  RHS range        [1e-02, 5e+04]
+Presolve removed 105503 rows and 165453 columns
+Presolve time: 0.21s
+Presolved: 6037 rows, 25899 columns, 72382 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    3.8596353e+03   9.907145e+04   0.000000e+00      0s
+   12834    5.6156366e+05   0.000000e+00   0.000000e+00      1s
+
+Solved in 12834 iterations and 1.42 seconds
+Optimal objective  5.615636601e+05
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec  8 12:18:48 2019
+
+
+--------------------------------------------
+Warning: your license will expire in 11 days
+--------------------------------------------
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Threads to 1
+   Prev: 0  Min: 0  Max: 1024  Default: 0
+Optimize a model with 111540 rows, 191352 columns and 507840 nonzeros
+Model has 6432 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+02]
+  Objective range  [1e+00, 1e+00]
+  QObjective range [2e-09, 4e-09]
+  Bounds range     [3e+00, 1e+04]
+  RHS range        [1e-03, 5e+04]
+Presolve removed 97557 rows and 104264 columns
+Presolve time: 0.43s
+Presolved: 13983 rows, 87088 columns, 242308 nonzeros
+Presolved model has 6432 quadratic objective terms
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.0850187e-02   0.000000e+00   0.000000e+00      0s
+   14485    1.4078164e-02   2.036006e+01   0.000000e+00      5s
+
+Stopped in 16748 iterations and 8.18 seconds
+Solve interrupted
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec  8 12:19:53 2019
+
+
+--------------------------------------------
+Warning: your license will expire in 11 days
+--------------------------------------------
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec  8 15:35:40 2019
+
+
+--------------------------------------------
+Warning: your license will expire in 11 days
+--------------------------------------------
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec  8 15:54:38 2019
+
+
+--------------------------------------------
+Warning: your license will expire in 11 days
+--------------------------------------------
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec  8 15:55:21 2019
+
+
+--------------------------------------------
+Warning: your license will expire in 11 days
+--------------------------------------------
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec  8 16:26:46 2019
+
+
+--------------------------------------------
+Warning: your license will expire in 11 days
+--------------------------------------------
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec  8 17:07:31 2019
+
+
+--------------------------------------------
+Warning: your license will expire in 11 days
+--------------------------------------------
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.1.1 (mac64, Python) logging started Sun Dec  8 19:21:59 2019
+
+
+--------------------------------------------
+Warning: your license will expire in 11 days
+--------------------------------------------
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.1.1 (mac64, Python) logging started Tue Dec 10 22:28:38 2019
+
+
+--------------------------------------------
+Warning: your license will expire in 9 days
+--------------------------------------------
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.1.1 (mac64, Python) logging started Wed Dec 11 00:03:08 2019
+
+
+--------------------------------------------
+Warning: your license will expire in 8 days
+--------------------------------------------
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.1.1 (mac64, Python) logging started Mon Dec 23 08:56:15 2019
+
+
+Gurobi 8.1.1 (mac64, Python) logging started Mon Dec 23 08:59:58 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.1.1 (mac64, Python) logging started Mon Dec 23 09:00:43 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.1.1 (mac64, Python) logging started Mon Dec 23 09:02:13 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.1.1 (mac64, Python) logging started Mon Dec 23 09:04:50 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.1.1 (mac64, Python) logging started Mon Dec 23 09:11:56 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.1.1 (mac64, Python) logging started Mon Dec 23 09:13:47 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.1.1 (mac64, Python) logging started Mon Dec 23 09:25:18 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.1.1 (mac64, Python) logging started Mon Dec 23 09:27:47 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.1.1 (mac64, Python) logging started Mon Dec 23 09:30:58 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.1.1 (mac64, Python) logging started Mon Dec 23 09:33:33 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Dec 26 11:44:06 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Dec 26 11:55:12 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Dec 26 11:57:25 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Dec 26 12:18:07 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Dec 26 12:23:18 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Dec 26 12:25:06 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Dec 26 14:31:36 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Dec 26 14:34:16 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Dec 26 14:35:42 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Dec 26 14:48:41 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Dec 26 14:51:16 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Dec 26 15:09:20 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Dec 26 15:11:01 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Dec 26 15:17:09 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Dec 26 15:31:43 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Dec 26 15:57:16 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Dec 26 16:07:03 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Dec 26 17:03:35 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Dec 26 17:11:52 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Dec 26 18:34:11 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Dec 26 21:00:44 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Dec 26 22:06:16 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Dec 26 22:54:07 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+
+Gurobi 8.1.1 (mac64, Python) logging started Sat Dec 28 13:00:30 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jan 16 09:55:35 2020
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Jan 16 09:57:35 2020
+
+Academic license - for non-commercial use only
+Changed value of parameter Method to 1
+   Prev: -1  Min: -1  Max: 5  Default: -1
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Changed value of parameter FeasibilityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
