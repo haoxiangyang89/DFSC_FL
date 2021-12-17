@@ -1,0 +1,67 @@
+Alachua County,29.65163,-82.32483
+Baker County,30.28218,-82.12206
+Bay County,30.15946,-85.65983
+Bradford County,29.94413,-82.10983
+Brevard County,28.61222,-80.80755
+Broward County,26.12231,-80.14338
+Calhoun County,30.44379,-85.04744
+Charlotte County,26.92978,-82.04537
+Citrus County,28.83582,-82.33037
+Clay County,29.99191,-81.67815
+Collier County,26.13842,-81.76648
+Columbia County,30.18968,-82.63929
+DeSoto County,27.21588,-81.85842
+Dixie County,29.6332,-83.10845
+Duval County,30.33218,-81.65565
+Escambia County,30.42131,-87.21691
+Flagler County,29.46609,-81.25784
+Franklin County,29.72938,-85.0288
+Gadsden County,30.58714,-84.58325
+Gilchrist County,29.61329,-82.81762
+Glades County,26.83312,-81.09312
+Gulf County,29.81188,-85.30297
+Hamilton County,30.51827,-82.94819
+Hardee County,27.5146,-81.88161
+Hendry County,26.76173,-81.43841
+Hernando County,28.55554,-82.38991
+Highlands County,27.49559,-81.44091
+Hillsborough County,27.94752,-82.45843
+Holmes County,30.79186,-85.67965
+Indian River County,27.63864,-80.39727
+Jackson County,30.77436,-85.22687
+Jefferson County,30.54515,-83.8713
+Lafayette County,30.053,-83.17486
+Lake County,28.80416,-81.72563
+Lee County,26.62168,-81.84059
+Leon County,30.43826,-84.28073
+Levy County,29.44774,-82.64233
+Liberty County,30.43247,-84.97702
+Madison County,30.44414,-83.47012
+Manatee County,27.49893,-82.57482
+Marion County,29.1872,-82.14009
+Martin County,27.19755,-80.25283
+Miami-Dade County,25.77427,-80.19366
+Monroe County,25.615457,-81.189971
+Nassau County,30.66968,-81.46259
+Okaloosa County,30.76213,-86.57051
+Okeechobee County,27.24393,-80.82978
+Orange County,28.53834,-81.37924
+Osceola County,28.30468,-81.41667
+Palm Beach County,26.71534,-80.05337
+Pasco County,25.94065,-80.2456
+Pinellas County,27.96585,-82.8001
+Polk County,27.89641,-81.84314
+Putnam County,29.64858,-81.63758
+Santa Rosa County,30.63241,-87.03969
+Sarasota County,27.33643,-82.53065
+Seminole County,28.80055,-81.27312
+St. Johns County,29.89469,-81.31452
+St. Lucie County,27.44671,-80.32561
+Sumter County,28.66499,-82.11286
+Suwannee County,30.29495,-82.98402
+Taylor County,26.00366,-80.23723
+Union County,28.50167,-81.54091
+Volusia County,29.02832,-81.30312
+Wakulla County,30.17604,-84.37518
+Walton County,30.72102,-86.11522
+Washington County,30.78186,-85.53854
